@@ -1,11 +1,9 @@
 # DV-FSSI
 
-Торговый советник для MetaTrader 5, который торгует двумя различными сетапами с применением кастомных индикаторов от FSSI
+Торговый советник **Friday Gold Rush** для MetaTrader 5 реализует очень простую эффективную стратегию, которую использует Andre Stagge.
 
 * Created by Denis Kislitsyn | denis@kislitsyn.me | [kislitsyn.me](https://kislitsyn.me/personal/algo)
 * Version: 1.00
-
-![Layout](img/UM001.%20Layout.png)
 
 ## Что нового?
 ```
@@ -15,7 +13,6 @@
 ## Стратегия
 
 На [форуме forexfactory](https://www.forexfactory.com/thread/1060592-ea-friday-gold-rush) нашел пост с элементарной стратегией для золота. 
-Торговый советник **Friday Gold Rush** для MetaTrader 5 реализует эту очень простую, но эффективную стратегию, которую использует Andre Stagge.
 
 > **Покупай золото в четверг в 14:45 и продавай в пятницу в 18:25. Эта элементарная стратегия показывает преимущество перед простым удержанием золота в 2024 году.**
 
